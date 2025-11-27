@@ -7,7 +7,7 @@ import random
 class UniversalCamoGen:
     def __init__(self, root):
         self.root = root
-        self.root.title("Universal Camo Studio v11.0 (Geometric Wave Engine)")
+        self.root.title("Universal Camo Gen")
         self.root.geometry("1280x950")
         
         self.width = 900
